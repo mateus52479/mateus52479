@@ -109,9 +109,9 @@
   />
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
-      height="400" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus52479&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
