@@ -99,7 +99,7 @@
 
 ### 📊 Estatísticas//Statistics 📊
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateus52479&show_icons=true&theme=tokyonight&title_color=c73c00&text_color=fe7e39&bg_color=000000&hide_border=true&locale=en" alt="mateus52479" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateus52479&show_icons=true&theme=tokyonight&title_color=#341539&text_color=fe7e39&bg_color=000000&hide_border=true&locale=en" alt="mateus52479" /></p>
 
 <img 
       align="left" 
