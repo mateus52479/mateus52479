@@ -5,7 +5,7 @@
 - Santa Catarina champion of the Brazilian Robotics Olympiad
 - Age: 17 years old
 - Pronouns: He/Him
-- Contact me: mateusdaboitdossantos@gmail.com
+- Contact me: mateusdeboitdossantos@gmail.com
 
 ---
 
